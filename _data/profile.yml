@@ -1,14 +1,16 @@
-primary_name: "Your Name"
+primary_name: "Yuxin Zhao"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Yuxin Zhao"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+  - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
   name: Position 1 with logo
-- name: Position 2 without logo
+- name: I am a first-year Ph.D. student at UCL CASA.
+
+Previously, I received my M.A. degree from Central South University in 2024.
 
 
-email: "your@email.com"
+email: "zhao873852105@gmail.com"
 # cv_link: link-to-your-cv-file
 gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: your_github_id
